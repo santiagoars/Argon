@@ -917,9 +917,15 @@ fieldset[disabled] .btn-xl:hover {
     display: none;
 }
 
-
+.cards{
+    border-radius: 0 !important;
+}
 
 #mockup{
+    width: 100%;
+}
+
+#placeholder{
     width: 100%;
 }
 
@@ -942,6 +948,15 @@ fieldset[disabled] .btn-xl:hover {
     color: #fff;
 }
 
-.card{
+.listing li{
     margin-bottom: 2%;
+}
+
+.boiler{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.car{
+    color: black;
 }
